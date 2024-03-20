@@ -1,0 +1,6 @@
+.bg-image{
+  background-image: url('https://png.pngtree.com/background/20230611/original/pngtree-wide-variety-of-food-made-from-raw-ingredients-picture-image_3145052.jpg');
+  height: 400px;
+  background-repeat: no-repeat;
+    background-size: cover;
+}
